@@ -1,0 +1,18 @@
+title: 超级电视
+lang: cn
+description: 让观看电视节目更加简单-电视节目问题一站式解决
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
